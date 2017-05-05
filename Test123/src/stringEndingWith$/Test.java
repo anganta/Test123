@@ -30,7 +30,7 @@ public class Test {
 
 			line = in.readLine(); // read next line
 		}
-		System.out.println(wordCount + "words ending with 4 from file");
+		System.out.println(wordCount + " words ending with $ from file");
 		in.close();
 	}
 
